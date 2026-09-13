@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa Clásica",
+        "categoria": "Comida rápida",
+        "precio": 5.50,
+        "cantidad": 25
+    },
+    {
+        "id": 2,
+        "nombre": "Pizza Margarita",
+        "categoria": "Pizzas",
+        "precio": 8.99,
+        "cantidad": 15
+    },
+    {
+        "id": 3,
+        "nombre": "Ensalada César",
+        "categoria": "Ensaladas",
+        "precio": 4.75,
+        "cantidad": 20
+    },
+    {
+        "id": 4,
+        "nombre": "Jugo de Naranja",
+        "categoria": "Bebidas",
+        "precio": 2.50,
+        "cantidad": 40
+    },
+    {
+        "id": 5,
+        "nombre": "Pollo a la Parrilla",
+        "categoria": "Platos fuertes",
+        "precio": 9.25,
+        "cantidad": 12
+    },
+    {
+        "id": 6,
+        "nombre": "Papas Fritas",
+        "categoria": "Acompañamientos",
+        "precio": 3.00,
+        "cantidad": 35
+    },
+    {
+        "id": 7,
+        "nombre": "Brownie de Chocolate",
+        "categoria": "Postres",
+        "precio": 3.50,
+        "cantidad": 18
+    },
+    {
+        "id": 8,
+        "nombre": "Café Americano",
+        "categoria": "Bebidas",
+        "precio": 1.75,
+        "cantidad": 50
+    }
+]
