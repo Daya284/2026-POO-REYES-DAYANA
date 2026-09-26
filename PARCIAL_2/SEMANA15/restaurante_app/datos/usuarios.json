@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre_usuario": "admin",
+        "contrasena": "admin123",
+        "nombre_completo": "Administrador del Sistema",
+        "rol": "administrador"
+    },
+    {
+        "id": 2,
+        "nombre_usuario": "cajero1",
+        "contrasena": "cajero123",
+        "nombre_completo": "María López",
+        "rol": "cajero"
+    },
+    {
+        "id": 3,
+        "nombre_usuario": "mesero1",
+        "contrasena": "mesero123",
+        "nombre_completo": "Carlos Pérez",
+        "rol": "mesero"
+    },
+    {
+        "id": 4,
+        "nombre_usuario": "cocinero1",
+        "contrasena": "cocinero123",
+        "nombre_completo": "Ana García",
+        "rol": "cocinero"
+    }
+]
